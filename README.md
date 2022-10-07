@@ -8,3 +8,8 @@ What I have learnt so far:
 - CSS
 - JavaScript
 
+> Changing background colour :
+
+- The background colour changes randomly by **clicking** the button
+- The button appears on the page after a period of time.
+

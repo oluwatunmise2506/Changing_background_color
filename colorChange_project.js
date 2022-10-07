@@ -8,9 +8,9 @@ function change_bgColor()
   document.getElementById("outer_div").style.backgroundColor = colourToUse
 }
 
-let myTimer = setInterval(hide_btn , 5000)
+let myTimer = setInterval(display_btn , 5000)
 
-function hide_btn()
+function display_btn()
 {
  document.getElementById("changer_btn").style.visibility = "visible" 
 }

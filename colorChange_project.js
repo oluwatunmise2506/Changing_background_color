@@ -17,3 +17,14 @@ function hide_btn()
 
 window.alert("A button will appear after 5 secs")
 
+
+let text = " "
+let i = 2
+function myNumbers()
+{
+  while (i<10)
+  {
+   text += i + "<br>"; i++ 
+  }
+}
+console.log(myNumbers);

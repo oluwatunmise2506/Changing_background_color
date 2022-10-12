@@ -9,5 +9,3 @@
  - p tag for paragraph
 
  - span tag which gives room for any text and diplay it as it was written in it. *div* also has the same function as **span**
-
- - *br* this is for line breaks....
